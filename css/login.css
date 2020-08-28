@@ -1,0 +1,44 @@
+.f{
+	float: left;
+}
+.reg input{
+	height: 60px;
+	font-size: 14px;
+}
+.btn{font-size: 14px !important;}
+.reg a{
+	color: #4a90e2;
+	font-size: 14px;
+}
+.reg .span1{
+	border-bottom: 3px solid transparent;
+}
+.reg .span1 a{
+	font-size: 16px;
+	color: #000000;
+}
+.reg .span1 a:hover{
+	text-decoration: none;
+}
+.reg .span1:hover{
+	border-bottom: 3px solid red;
+}
+.btn{
+	border-radius: 0.5rem;
+}
+.top{display: flex;}
+
+.left .logo{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	color: #fff;
+	text-align: center;
+}
+.left .logo h2{
+	letter-spacing: 2px;
+}
+.left .logo span{
+	font-size: 14px;
+	letter-spacing: 3px;
+}
